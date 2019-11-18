@@ -1,8 +1,0 @@
-/home/pierre/git/farm/src/BuildingBlocks/EventBus/bin/Debug/netstandard2.0/eventbus.deps.json
-/home/pierre/git/farm/src/BuildingBlocks/EventBus/bin/Debug/netstandard2.0/eventbus.dll
-/home/pierre/git/farm/src/BuildingBlocks/EventBus/bin/Debug/netstandard2.0/eventbus.pdb
-/home/pierre/git/farm/src/BuildingBlocks/EventBus/obj/Debug/netstandard2.0/eventbus.csprojAssemblyReference.cache
-/home/pierre/git/farm/src/BuildingBlocks/EventBus/obj/Debug/netstandard2.0/eventbus.AssemblyInfoInputs.cache
-/home/pierre/git/farm/src/BuildingBlocks/EventBus/obj/Debug/netstandard2.0/eventbus.AssemblyInfo.cs
-/home/pierre/git/farm/src/BuildingBlocks/EventBus/obj/Debug/netstandard2.0/eventbus.dll
-/home/pierre/git/farm/src/BuildingBlocks/EventBus/obj/Debug/netstandard2.0/eventbus.pdb
